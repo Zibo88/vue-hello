@@ -3,8 +3,8 @@ var app = new Vue (
         el:'#root',
         data:{
 
-            titlePage: 'Foto dallo spazio',
-            photo: 'https://st.depositphotos.com/1000401/2160/i/600/depositphotos_21604911-stock-photo-nebula-gas-cloud-in-deep.jpg'
+            titlePage: 'OGGI RELAX',
+            photo: 'https://1.bp.blogspot.com/-uKONCFlu-NE/UP63qo4kXqI/AAAAAAAAONA/QS46Dbk91kQ/s1600/immagini+divertenti+di+scimmie+2.jpg'
         }
     }
 )
